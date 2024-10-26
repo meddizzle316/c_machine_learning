@@ -1,0 +1,1 @@
+A basic machine learning reinforcement project using https://www.youtube.com/watch?v=2nonlRp3vT0&list=PLOkmXPXHDP22Lh0AAmRi7N5RlJzK68mpy&index=1&ab_channel=RobertCowher-DevOps%2CPython%2CAI as a guide
